@@ -10,3 +10,13 @@ What should I blog about?
   * What is it good for
   * When not to use it
   * How to use it
+* Source control
+	* Why should I use it
+  * Git
+	* How to use Git
+	* Others: Svn, Tfs, Cvs
+* Serialization in .NET
+  * Build in serializers
+	* WCF serializers
+	* JSON.NET
+	* Google Protobuf
