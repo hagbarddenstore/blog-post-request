@@ -29,3 +29,7 @@ What should I blog about?
 	  * RabbitMQ
 	  * MSMQ
 	  * ZeroMQ
+* Dependency Injection
+* The SOLID principle
+* Continous Integration
+  * TeamCity
