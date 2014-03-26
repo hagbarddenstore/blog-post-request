@@ -24,8 +24,8 @@ What should I blog about?
   * Why, why, why, why, why?
 	* Frameworks
 	  * Rebus
-		* NServiceBus
+	  * NServiceBus
 	* Servers
 	  * RabbitMQ
-		* MSMQ
-		* ZeroMQ
+	  * MSMQ
+	  * ZeroMQ
