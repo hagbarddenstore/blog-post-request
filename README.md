@@ -20,3 +20,12 @@ What should I blog about?
 	* WCF serializers
 	* JSON.NET
 	* Google Protobuf
+* Message queueing
+  * Why, why, why, why, why?
+	* Frameworks
+	  * Rebus
+		* NServiceBus
+	* Servers
+	  * RabbitMQ
+		* MSMQ
+		* ZeroMQ
