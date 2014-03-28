@@ -37,4 +37,4 @@ What should I blog about?
 * Visual Studio
   * Extensions
     * Resharper
-	  * StyleCop
+    * StyleCop
