@@ -1,5 +1,4 @@
-What should I blog about?
--------------------------
+# What should I blog about?
 
 ## Patterns
 
