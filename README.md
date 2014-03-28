@@ -33,3 +33,4 @@ What should I blog about?
 * The SOLID principle
 * Continous Integration
   * TeamCity
+	* Visual Studio Online
