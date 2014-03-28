@@ -34,3 +34,7 @@ What should I blog about?
 * Continous Integration
   * TeamCity
 	* Visual Studio Online
+* Visual Studio
+  * Extensions
+    * Resharper
+		* StyleCop
