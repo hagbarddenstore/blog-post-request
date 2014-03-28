@@ -33,8 +33,9 @@ What should I blog about?
 * The SOLID principle
 * Continous Integration
   * TeamCity
-	* Visual Studio Online
+  * Visual Studio Online
 * Visual Studio
   * Extensions
     * Resharper
     * StyleCop
+  * Multiple configuration files depending on chosen configuration profile (App.config/Web.config)
