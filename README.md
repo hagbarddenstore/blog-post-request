@@ -34,6 +34,7 @@ What should I blog about?
 * Continous Integration
   * TeamCity
   * Visual Studio Online
+  * Jenkins
 * Visual Studio
   * Extensions
     * Resharper
