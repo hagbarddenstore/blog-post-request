@@ -1,42 +1,63 @@
 What should I blog about?
 -------------------------
 
-* How to write unit tests
-* How to write integration tests
-* How to write testable code
-* Application structure
-* Rebus
-  * What is it
-  * What is it good for
-  * When not to use it
-  * How to use it
-* Source control
-	* Why should I use it
-  * Git
-	* How to use Git
-	* Others: Svn, Tfs, Cvs
-* Serialization in .NET
-  * Build in serializers
-	* WCF serializers
-	* JSON.NET
-	* Google Protobuf
-* Message queueing
-  * Why, why, why, why, why?
-	* Frameworks
-	  * Rebus
-	  * NServiceBus
-	* Servers
-	  * RabbitMQ
-	  * MSMQ
-	  * ZeroMQ
-* Dependency Injection
+## Patterns
+
 * The SOLID principle
-* Continous Integration
-  * TeamCity
-  * Visual Studio Online
-  * Jenkins
-* Visual Studio
-  * Extensions
-    * Resharper
-    * StyleCop
-  * Multiple configuration files depending on chosen configuration profile (App.config/Web.config)
+* Unit testing
+* Integration testing
+* Memento
+* Data Transfer Objects
+* Dependency Injection
+* Inversion of Control
+
+## Development environments
+
+### Visual Studio
+
+* Resharper
+* StyleCop
+* Configuration file transformations
+
+## Continuous integration
+
+* TeamCity
+* Visual Studio Online
+* Jenkins
+
+## Architecture
+
+* Application structure (.NET projects)
+* Layering
+
+## Message queueing
+
+* Frameworks
+  * Rebus
+  * NServiceBus
+	* Rhino ServiceBus
+* Servers
+  * RabbitMQ
+  * MSMQ
+  * ZeroMQ
+
+## Source control
+
+* Git
+* Svn
+* Tfs
+* Cvs
+
+## Serialization in .NET
+
+* Built in serializers
+* Built in serializers in WCF
+* JSON.NET
+* Google Protocol Buffers
+
+## Languages
+* C#
+* Visual Basic
+* PHP
+* Java
+* C/C++
