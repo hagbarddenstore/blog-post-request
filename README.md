@@ -60,3 +60,6 @@
 * PHP
 * Java
 * C/C++
+
+## .NET Framework
+* Reflection & TypeDescriptor API
