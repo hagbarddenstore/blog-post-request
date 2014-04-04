@@ -63,3 +63,6 @@
 
 ## .NET Framework
 * Reflection & TypeDescriptor API
+
+## Various frameworks
+* Topshelf
